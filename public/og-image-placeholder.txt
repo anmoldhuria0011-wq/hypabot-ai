@@ -1,0 +1,9 @@
+REPLACE THIS FILE WITH: og-image.png (1200×630px)
+
+Design brief:
+- Dark background: #050505
+- Left: HYPA BOT logo + wordmark
+- Center: AI Core orb visual
+- Right: Headline "AI Employees That Never Sleep"
+- Bottom: hypabot.ai URL
+- Brand colors: #3b82f6 accent on matte black
